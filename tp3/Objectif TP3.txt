@@ -1,4 +1,5 @@
-L'objectif est de coder le script permettant la connectiobn au walletsur tezos. Pour ce faire le script à modifier est celui du fichier Header.js 
+L'objectif est de coder le script permettant la transactions . Pour ce faire le script à modifier est celui du fichier transac.js
+
 
 Lancez npm start en ayant \Documents\GitHub\KSpoleprog\tp1  comme repertoire de travail (pwd )  apres avoir fait les installations . Le site se mettra a jour à chaque fois qu'on sauvegarde les modifications
 
